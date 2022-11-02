@@ -21,3 +21,7 @@
   - [변수](https://github.com/sunkeydokey/TIL/blob/main/ModernJavaScriptDeepDive/01_variable.md)
   - [표현식과 문](https://github.com/sunkeydokey/TIL/blob/main/ModernJavaScriptDeepDive/02_expression_state.md)
   - [데이터타입](https://github.com/sunkeydokey/TIL/blob/main/ModernJavaScriptDeepDive/03_datatype.md)
+
+## 실시간 모니터링 시스템을 만들며 정복하는 MEVN
+
+- [2장 | 제대로 배우는 자바스크립트](https://github.com/sunkeydokey/TIL/tree/main/MEVN/ch2)
