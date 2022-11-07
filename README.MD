@@ -25,3 +25,4 @@
 ## 실시간 모니터링 시스템을 만들며 정복하는 MEVN
 
 - [2장 | 제대로 배우는 자바스크립트](https://github.com/sunkeydokey/TIL/tree/main/MEVN/ch2)
+- [3장 | 코드 리팩토링과 함수형 프로그래밍](https://github.com/sunkeydokey/TIL/tree/main/MEVN/ch3)
