@@ -32,3 +32,4 @@
 - 운영체제 [HPC Lab. KOREATECH 채널 OS 강의](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
   - [운영체제 개요](./OS/OS-Lecture/Lecture1-Overview.md)
   - [프로세스 관리](./OS/OS-Lecture/Lecture2-Process.md)
+  - [스레드](./OS/OS-Lecture/Lecture3-Thread.md)
