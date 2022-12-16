@@ -33,3 +33,4 @@
   - [운영체제 개요](./OS/OS-Lecture/Lecture1-Overview.md)
   - [프로세스 관리](./OS/OS-Lecture/Lecture2-Process.md)
   - [스레드](./OS/OS-Lecture/Lecture3-Thread.md)
+  - [스케줄링](./OS/OS-Lecture/Lecture4-Scheduling.md)
