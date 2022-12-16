@@ -31,6 +31,7 @@
 - 실행 대기 방지
 - 예측 가능성
 - etc
+
   ![응답시간](https://velog.velcdn.com/images/sunkeydokey/post/4dabb0e0-e707-4165-817f-d6e0a894cfba/image.png)
 
 # 스케줄링의 기준
