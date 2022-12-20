@@ -34,3 +34,4 @@
   - [프로세스 관리](./OS/OS-Lecture/Lecture2-Process.md)
   - [스레드](./OS/OS-Lecture/Lecture3-Thread.md)
   - [스케줄링](./OS/OS-Lecture/Lecture4-Scheduling.md)
+  - [동기화와 상호배제](./OS/OS-Lecture/Lecture5-MUTEX.md)
