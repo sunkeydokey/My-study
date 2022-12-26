@@ -36,3 +36,4 @@
   - [스케줄링](./OS/OS-Lecture/Lecture4-Scheduling.md)
   - [동기화와 상호배제](./OS/OS-Lecture/Lecture5-MUTEX.md)
   - [Deadlock (교착상태)](./OS/OS-Lecture/Lecture6-Deadlock.md)
+  - [메모리 관리](./OS/OS-Lecture/Lecture7-Memory.md)
