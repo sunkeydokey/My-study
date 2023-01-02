@@ -38,3 +38,4 @@
   - [Deadlock (교착상태)](./OS/OS-Lecture/Lecture6-Deadlock.md)
   - [메모리 관리](./OS/OS-Lecture/Lecture7-Memory.md)
   - [가상 메모리](./OS/OS-Lecture/Lecture8-VM.md)
+  - [가상 메모리 관리](./OS/OS-Lecture/Lecture9-VMManagement.md)
