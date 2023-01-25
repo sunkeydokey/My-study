@@ -40,7 +40,7 @@
   - [가상 메모리](./OS/OS-Lecture/Lecture8-VM.md)
   - [가상 메모리 관리](./OS/OS-Lecture/Lecture9-VMManagement.md)
 
-## React 공식문서0.2
+## React 공식문서
 
 - [JSX](./React-Docs/jsx.md)
 - [엘리먼트 렌더링](./React-Docs/rendering-elements.md)
