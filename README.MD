@@ -22,6 +22,10 @@
   - [표현식과 문](./ModernJavaScriptDeepDive/02_expression_state.md)
   - [데이터타입](./ModernJavaScriptDeepDive/03_datatype.md)
 
+## TypeScript
+
+- [타입 종류](./TypeScript/ts-types.md)
+
 ## 실시간 모니터링 시스템을 만들며 정복하는 MEVN
 
 - [2장 | 제대로 배우는 자바스크립트](./MEVN/ch2)
