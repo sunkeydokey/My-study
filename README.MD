@@ -28,6 +28,8 @@
 - [타입 추론](./TypeScript/ts-inference.md)
 - [타입 단언](./TypeScript/ts-assertion.md)
 - [타입 가드](./TypeScript/ts-typeguard.md)
+- [인터페이스](./TypeScript/ts-interface.md)
+- [타입 별칭](./TypeScript/ts-alias.md)
 
 ## 실시간 모니터링 시스템을 만들며 정복하는 MEVN
 
