@@ -28,18 +28,15 @@ function add(a, b) {
 ## 오버로딩
 
 ```ts
-function add(a: string, b: string): string;
-// 타입 선언
+function add(a: string | number, b: string | number): string;
 function add(a: number, b: number): number;
-// 타입 선언
-function add(a: number | string, b: number | string): string;
-// 타입 선언
-function add(a: any, b: any) {
+function add(a: string | number, b: string | number) {
   // 함수 구현
-  if (typeof a !== typeof b && typeof a === 'string') {
-    return a + b.toString();
-  } else if (typeof a !== typeof b && typeof b === 'string') {
-    return a.toString() + b;
+  if (
+    typeof a === 'string' || //
+    typeof b === 'string'
+  ) {
+    return `${a}${b}`;
   } else {
     return a + b;
   }
