@@ -30,6 +30,8 @@
 - [타입 가드](./TypeScript/ts-typeguard.md)
 - [인터페이스](./TypeScript/ts-interface.md)
 - [타입 별칭](./TypeScript/ts-alias.md)
+- [명시적 this](./TypeScript/ts-this.md)
+- [함수 오버로딩](./TypeScript/ts-fnc-overloading.md)
 
 ## 실시간 모니터링 시스템을 만들며 정복하는 MEVN
 
